@@ -5,6 +5,8 @@ El desafío es construir esta página de recetas y hacer que se parezca lo más 
 - HTML
 - CSS
 
+![desktop-preview](https://github.com/Cheosphere/recipe-page-main/assets/112582420/39005ea8-0472-4fff-a91e-4b7dac64d35d)
+
 # Guía de Estilo
 
 ## Diseño
